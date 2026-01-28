@@ -183,7 +183,9 @@ body {
    --brand: #2563eb;
   --brand-dark: #1d4ed8;
 }
-
+* {
+  box-sizing: border-box;
+}
 .site-header,
 .site-footer {
   text-align: center;
